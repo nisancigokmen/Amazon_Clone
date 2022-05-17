@@ -1,0 +1,40 @@
+    .MovingBox {
+    background-color: #fff;
+    color: #000;
+    width: 97%;
+    height: auto;
+    padding: 24px;
+    margin: 21px;
+    }
+
+    .moving__title:hover {
+    color: #c32f22;
+    }
+
+    .moving__infos {
+    color: #208394;
+    cursor: pointer;
+    display: flex;
+    padding-top: 4px;
+    width: 24%;
+    }
+
+    .moving__infos:hover {
+    color: #c32f22;
+    }
+
+    .moving__star img {
+    width: 24px;
+    }
+
+    .moving__pay {
+    padding-top: 6px;
+    font-size: 21px;
+    padding-left: 3px;
+    }
+
+    .moving__pay2 {
+    padding-top: 6px;
+    font-size: 18px;
+    padding-left: 3px;
+    }

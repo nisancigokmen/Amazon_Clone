@@ -1,0 +1,79 @@
+    .content {
+    background-color: #232f3e;
+    padding: 12px;
+    display: flex;
+    justify-content: left;
+    font-size: 17px;
+    }
+
+    /* Content All Icon-Text */
+
+    /*menu icon */
+    .content__menuBar {
+    width: 24px;
+    }
+
+    .content__all {
+    display: flex;
+    justify-content: space-between;
+    }
+
+    .content__all a {
+    text-decoration: none;
+    color: #fff;
+    }
+
+    .content__allText {
+    font-family: normal;
+    padding-left: 5px;
+    }
+
+    /* Today's Deals  */
+    .content__details {
+    padding-left: 18px;
+    }
+
+    .content__details a {
+    text-decoration: none;
+    color: #fff;
+    }
+
+    /*Customer Service  */
+    .content__service {
+    padding-left: 18px;
+    }
+
+    .content__service a {
+    text-decoration: none;
+    color: #fff;
+    }
+
+    /* Registry */
+    .content__registry {
+    padding-left: 18px;
+    }
+
+    .content__registry a {
+    text-decoration: none;
+    color: #fff;
+    }
+
+    /*Gift Cards  */
+    .content__gift {
+    padding-left: 18px;
+    }
+
+    .content__gift a {
+    text-decoration: none;
+    color: #fff;
+    }
+
+    /*Sell */
+    .content__sell {
+    padding-left: 18px;
+    }
+
+    .content__sell a {
+    text-decoration: none;
+    color: #fff;
+    }

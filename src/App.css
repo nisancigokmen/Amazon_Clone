@@ -1,0 +1,18 @@
+    body {
+    background-color: #e3ece7;
+    }
+
+    .App__Product {
+    display: flex;
+    justify-content: space-around;
+    height: auto;
+    }
+
+    .App_Component2 {
+    display: flex;
+    justify-content: space-around;
+    }
+
+    .App__movingBox {
+    display: flex;
+    }

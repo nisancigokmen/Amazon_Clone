@@ -1,0 +1,11 @@
+    .home {
+    max-width: 1500px;
+    margin-right: auto;
+    margin-left: auto;
+    }
+
+    .home__image {
+    width: 99%;
+    position: absolute; /*z-index img styles */
+    z-index: -1;
+    }

@@ -1,0 +1,24 @@
+    .galleryAnimmated {
+    background-color: #fff;
+    color: #000;
+    width: 95%;
+    height: auto;
+    margin-bottom: 2em;
+    margin-left: 2em;
+    padding: 21px;
+    margin-top: 18px;
+    font-size: 14px;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    }
+
+    .galleryAnimated__images {
+    display: flex;
+    justify-content: space-around;
+    }
+
+    .galleryAnimated__images img {
+    width: 120px;
+    height: 210px;
+    cursor: pointer;
+    }

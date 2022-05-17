@@ -1,0 +1,26 @@
+    .product {
+    margin-top: 18px;
+    width: 340px;
+    height: 420px;
+    background-color: #fff;
+    }
+
+    .product__page img {
+    width: 160px;
+    }
+
+    .product__title {
+    padding: 6px;
+    margin-left: 8px;
+    }
+
+    .product__page {
+    display: flex;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    cursor: pointer;
+    }
+
+    .product__altPage span {
+    padding-left: 12px;
+    }

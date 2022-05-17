@@ -1,0 +1,26 @@
+    .loginBtn__page {
+    margin-top: 18px;
+    }
+
+    .login__btn {
+    margin-top: 18px;
+    width: 320px;
+    height: 160px;
+    background-color: #fff;
+    text-align: center;
+    }
+
+    .btn {
+    width: 90%;
+    height: 32px;
+    border-radius: 0.55em;
+    border: 1px solid #ffd814;
+    color: #000;
+    background-color: #ffd814;
+    text-align: center;
+    cursor: pointer;
+    }
+
+    .login__bottomImg {
+    padding: 12px;
+    }

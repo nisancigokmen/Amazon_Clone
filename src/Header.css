@@ -1,0 +1,159 @@
+    body {
+    margin: 0px;
+    border: 0px;
+    }
+
+    /*--------------------------HEADER STYLE START ... -------------------------*/
+    .header {
+    background-color: #131921;
+    align-items: center;
+    display: flex;
+    top: 0px;
+    z-index: 100;
+    }
+
+    /*header amazon-logo style */
+    .header__img img {
+    width: 100px;
+    margin: 12px 8px 6px 20px;
+    }
+
+    /*header location style */
+    .header__location {
+    display: flex;
+    color: #fff;
+    }
+
+    .header__mapIcon img {
+    width: 21px;
+    margin: 24px 2px 12px 6px;
+    }
+
+    .header__mapText {
+    margin: 12px 12px 12px 2px;
+    }
+
+    .header_mapTitle {
+    opacity: 0.7;
+    font-size: 16px;
+    }
+
+    .header__mapTitle2 {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    }
+
+    /*header search bar */
+
+    .header__search {
+    display: flex;
+    flex: 1;
+    border-radius: 0.35em;
+    }
+
+    .header__searchInput {
+    height: 12px;
+    padding: 13px;
+    width: 100%;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    .header__searchInput:focus {
+    border: 4px solid #febd69;
+    border-radius: 0.15em;
+    }
+
+    /*btn search */
+    .header_searchIcon {
+    background-color: #febd69;
+    float: left;
+    width: 6%;
+    padding: 2px;
+    border-left: none;
+    cursor: pointer;
+    border-radius: 0.15em;
+    border:1px solid #febd69;
+    }
+
+    .header_searchIcon:hover {
+    background-color: #faaf4b;
+    }
+
+    .header__searchIconImg {
+    width: 26px;
+    }
+
+    /*header langues style */
+
+    .header__lang {
+    padding: 12px 12px 12px 12px;
+    }
+
+    .header__langImg {
+    width: 28px;
+    padding-top: 6px;
+    }
+
+    /*header account style*/
+
+    .header__account {
+    display: block;
+    color: #fff;
+    padding: 12px 12px 12px 12px;
+    }
+
+    .header__accountTitle {
+    opacity: 0.7;
+    font-size: 16px;
+    }
+
+    .header__accountTitle {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    }
+
+    /*returns & order account style*/
+
+    .header__returns {
+    display: block;
+    color: #fff;
+    padding: 12px 12px 12px 12px;
+    }
+
+    .header__returnsTitle {
+    opacity: 0.7;
+    font-size: 16px;
+    }
+
+    .header__returnsTitle2 {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    }
+
+    /*header cart style */
+    .header__cart {
+    padding: 12px 12px 16px 6px;
+    color: #fff;
+    display: flex;
+    }
+
+    .header__cartImages img {
+    width: 42px;
+    margin-top: 12px;
+    }
+
+    .header__cartTitle {
+    font-size: 18px;
+    color: #febd69;
+    }
+
+    .header__cartNumber {
+    padding: 12px 2px 2px 2px;
+    display: flex;
+    }
+
+    /*--------------------------HEADER STYLE END ... -------------------------*/

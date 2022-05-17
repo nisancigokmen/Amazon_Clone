@@ -1,0 +1,36 @@
+    .component {
+    background-color: #fff;
+    color: #000;
+    width: 95%;
+    margin-top: 18em;
+    margin-left: 2em;
+    text-align: center;
+    padding: 2px;
+    font-size: 14px;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    }
+
+    .linksAmazon {
+    text-decoration: none;
+    color: #00aaff;
+    }
+
+    /*--component2 style--*/
+    .component__2 {
+    margin-top: 18px;
+    width: 340px;
+    height: 420px;
+    background-color: #fff;
+    margin-left: 18px;
+    }
+
+    .component2__title {
+    padding-left: 6px;
+    }
+
+    .component2__images img {
+    width: 310px;
+    height: 320px;
+    padding-left: 12px;
+    }
