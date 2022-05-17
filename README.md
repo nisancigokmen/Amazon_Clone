@@ -19,24 +19,6 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Tech We Used
-
-- ReactJs
-- Firebase Hosting
-- Firebase Auth
-- Firebase Storage
-- React-Dom
-- React Redux
-- Stripe payment
-
-## Features
-
-- Login and Logout
-- Add to cart
-- Remove from cart
-- Payment 
-- Neat and clean UI
-
  <div id="tools">
  <h2> Languages and tools:  </h2><br>
  
