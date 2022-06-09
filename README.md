@@ -5,6 +5,7 @@
 
 ## Installation
 
+
 Clone the repo.
 ```bash
 git clone https://github.com/nisancigokmen/Amazon_Clone.git
@@ -17,6 +18,7 @@ Run app in development mode.
 ```bash
 npm start
 ```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
