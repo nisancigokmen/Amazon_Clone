@@ -8,7 +8,6 @@ Clone the repo.
 ```bash
 git clone https://github.com/nisancigokmen/Amazon_Clone.git
 ```
-
 Install dependencies.
 ```bash
 npm install
