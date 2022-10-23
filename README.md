@@ -1,9 +1,6 @@
 # Amazon Clone
 
-
-
 <img src= "https://media1.giphy.com/media/3oKIPuM1xeVUMZqbq8/giphy.gif?cid=ecf05e47wlw3o0hcy7hirr4ao69ys4k5riu0o6z3hzhpnf69&rid=giphy.gif&ct=g" width="240px" height="200px">
-
 
 ## Installation
 
